@@ -1,0 +1,29 @@
+head {
+    color: black;
+    text-align: center;
+    font: size 120%;    
+    font-family: fantasy;
+}
+
+h1 {
+    color: rgb(14, 15, 14);
+    text-align: center;
+    font-size: 280%;
+    background-color: hotpink;
+}
+
+pre {
+    font-size: smaller;
+}
+
+h2 {
+    text-align: center;
+    font-size: 250%;
+}
+body {
+    background-image: url("../IMGENES/FB_IMG_1715964283264.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
