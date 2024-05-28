@@ -1,5 +1,2 @@
-var happy = [
-    "happy"
-];
-console.log(happy);
-alert(happy);
+var mensaje = "happy";
+alert(mensaje);
