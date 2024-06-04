@@ -1,8 +1,29 @@
 head {
     color: black;
     text-align: center;
-    font: size 120%;    
+    font: size 120%;
     font-family: fantasy;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(75, 3, 53);
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    padding: 10px;
 }
 
 h1 {
@@ -12,18 +33,34 @@ h1 {
     background-color: hotpink;
 }
 
+
 pre {
     font-size: smaller;
 }
+
 
 h2 {
     text-align: center;
     font-size: 250%;
 }
+
 body {
-    background-image: url("../IMGENES/FB_IMG_1715964283264.jpg");
+    background-image: url("../Imagenes/FB_IMG_1715964283264.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
-}
 
+    miTitulo {
+        background-color: blue;
+    }
+
+    h3 {
+        text-align: center;
+        font-size: 250;
+    }
+
+    footer a {
+        align-items: center;
+        background-color: black;
+
+    }
