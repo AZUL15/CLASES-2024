@@ -37,7 +37,9 @@ h1 {
 pre {
     font-size: smaller;
 }
-
+img ./Imagenes/pussinboots's GIFs on Tenor.gif {
+    img-align: center
+}
 
 h2 {
     text-align: center;
@@ -59,8 +61,12 @@ body {
         font-size: 250;
     }
 
+    footer {
+        text-align: center;
+  
+    }
     footer a {
-        align-items: center;
-        background-color: black;
+    
+     background-color: black;
 
     }
